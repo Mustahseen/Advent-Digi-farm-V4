@@ -390,15 +390,6 @@ ul {
     /* background-image: url('./background/farmland.jpg'); */
 }
 
-.dashboard::before {
-    /* background-color: linear-gradient(to left, #15005c, #1302ff, white); */
-    content: '';
-    display: block;
-    height: 100%;
-    position: absolute;
-    width: 100%;
-}
-
 .dashboard.active {
     width: calc(100% - 80px);
     left: 80px;
