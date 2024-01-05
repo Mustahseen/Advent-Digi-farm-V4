@@ -383,6 +383,7 @@ ul {
     position:absolute;
     top: 2em;
     right: 0;
+    height: 100%;
     /* width: calc(100% - 15em); */
     overflow-x: hidden;
     max-height: 100vh;
