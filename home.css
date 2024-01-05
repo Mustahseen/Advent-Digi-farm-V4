@@ -51,7 +51,7 @@ body {
     background-repeat: none;
     /* background: linear-gradient(to left, #15005c, #1302ff, white), url('./background/farmland.jpg'); */
     /* background: linear-gradient(to left, rgba(138,129,255,0.9) 10%, rgba(255,255,255,0.9) 90%),  url('./background/farmlandWithCloud2.jpg'); */
-    background: linear-gradient(to left, rgba(201, 200, 200, 0.4) 10%, rgba(255,255,255,0.9) 90%),  url('./background/farmlandWithCloud2.jpg');
+    background: linear-gradient(to left, rgba(201, 200, 200, 0.4) 10%, rgba(255,255,255,0.9) 90%),  url('./farmlandWithCloud2.jpg');
     background-size: cover;
     /* background-size: 400% 400%; */
     animation: Gradient 15s ease infinite;
