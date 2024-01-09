@@ -262,7 +262,8 @@ map.on('load', () => {
 
     map.addSource('Dec 18,2023', {
       type: 'raster',
-      tiles: ['http://api.agromonitoring.com/tile/1.0/{z}/{x}/{y}/1206580dd00/658efe5c6352a366372cd5e4?appid=3199961a1db6540d9bb6d68370f2cde6'], //Dec 18, 2023
+      // tiles: ['http://api.agromonitoring.com/tile/1.0/{z}/{x}/{y}/1206580dd00/658efe5c6352a366372cd5e4?appid=3199961a1db6540d9bb6d68370f2cde6'], //Dec 18, 2023
+      tiles: ['http://api.agromonitoring.com/image/1.0/12063e19480/658efe5c6352a366372cd5e4?appid=3199961a1db6540d9bb6d68370f2cde6'], //Dec 18, 2023
       tileSize: 256
     });
 
