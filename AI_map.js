@@ -518,6 +518,9 @@ map.on('idle', () => {
   }
 });
 
+map.on('idle',function(){
+  map.resize()
+  })
 
 
 ////////////////////NDVI Map Contour////////////////////////
